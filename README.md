@@ -10,7 +10,7 @@ Follow these simple steps to create your own ASCII art:
    Grab the code from GitHub:
 
    ```bash
-   git clone https://github.com/yourusername/ASCII-Art-Generator.git
+   git clone https://github.com/Aryaan-Dev/ASCII-Art-Generator.git
    cd ASCII-Art-Generator
    ```
 
